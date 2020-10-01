@@ -1,7 +1,9 @@
 import React from "react";
 
 const Peter = (props) => {
-  return <div style={{ background: props.children }}>hi</div>;
+  const input = <input />;
+
+  return <div>{input}</div>;
 };
 
 export default Peter;
