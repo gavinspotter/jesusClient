@@ -1,10 +1,10 @@
 import React from "react";
 
-import "./dates/9-30-20/Jesus";
 import "./App.css";
+import Jesus from "./dates/9-30-20/Jesus";
 
 function App() {
-  return <div>hi</div>;
+  return <Jesus></Jesus>;
 }
 
 export default App;
