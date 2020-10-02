@@ -5,7 +5,8 @@ import Peter from "./Peter";
 const Jesus = (props) => {
   return (
     <div>
-      <Peter>blue</Peter>
+      <Peter id="address" />
+      <Peter id="picture" />
     </div>
   );
 };

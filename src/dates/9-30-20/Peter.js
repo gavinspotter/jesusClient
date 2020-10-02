@@ -1,7 +1,7 @@
 import React from "react";
 
 const Peter = (props) => {
-  const input = <input />;
+  const input = <input id={props.id} />;
 
   return <div>{input}</div>;
 };
