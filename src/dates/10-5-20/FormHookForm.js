@@ -4,8 +4,8 @@ import FormHookInput from "../10-4-20/FormHookInput";
 const FormHookForm = () => {
   return (
     <div>
-      <FormHookInput />
-      <FormHookInput />
+      <FormHookInput label="title" element="input" />
+      <FormHookInput label="description" />
     </div>
   );
 };
