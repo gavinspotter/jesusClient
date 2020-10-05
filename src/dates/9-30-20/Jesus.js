@@ -1,14 +1,7 @@
 import React from "react";
 
-import Peter from "./Peter";
-
 const Jesus = (props) => {
-  return (
-    <div>
-      <Peter id="address" />
-      <Peter id="picture" />
-    </div>
-  );
+  return <div></div>;
 };
 
 export default Jesus;
