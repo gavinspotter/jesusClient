@@ -10,7 +10,7 @@ import {
 } from "react-router-dom";
 
 function App() {
-  return <Jesus></Jesus>;
+  return <Router></Router>;
 }
 
 export default App;
