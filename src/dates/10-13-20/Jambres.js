@@ -1,3 +1,5 @@
 import React from "react";
 
-const Jamebres = () => {};
+const Jambres = () => {};
+
+export default Jambres;
