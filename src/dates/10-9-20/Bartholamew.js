@@ -6,6 +6,12 @@ const Bartholamew = () => {
   const { register, handleSubmit } = useForm();
 
   const onSubmit = (data) => console.log(data);
+
+  return (
+    <div>
+      <form></form>
+    </div>
+  );
 };
 
 export default Bartholamew;
