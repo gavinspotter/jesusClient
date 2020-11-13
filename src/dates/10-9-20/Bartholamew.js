@@ -4,6 +4,8 @@ import { useForm } from "react-hook-form";
 
 const Bartholamew = () => {
   const { register, handleSubmit } = useForm();
+
+  const onSubmit = (data) => console.log(data);
 };
 
 export default Bartholamew;
