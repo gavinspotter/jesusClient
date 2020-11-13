@@ -2,6 +2,8 @@ import React from "react";
 import Andrew from "../10-9-20/Andrew";
 import { useForm } from "react-hook-form";
 
-const Bartholamew = () => {};
+const Bartholamew = () => {
+  const { register, handleSubmit } = useForm();
+};
 
 export default Bartholamew;
