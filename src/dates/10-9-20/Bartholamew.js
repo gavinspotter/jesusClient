@@ -14,6 +14,7 @@ const Bartholamew = () => {
         <Andrew hi={register} yo="suh" />
         <Andrew hi={register} yo="sup" />
         <Judas ref={register} name="lol" />
+        <button>submit</button>
       </form>
     </div>
   );
