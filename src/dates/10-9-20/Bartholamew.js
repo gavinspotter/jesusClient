@@ -11,6 +11,7 @@ const Bartholamew = () => {
     <div>
       <form onSubmit={handleSubmit(onSubmit)}>
         <Andrew hi={register} name="suh" />
+        <Andrew hi={register} />
       </form>
     </div>
   );
