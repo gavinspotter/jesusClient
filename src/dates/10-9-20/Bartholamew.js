@@ -10,7 +10,7 @@ const Bartholamew = () => {
   return (
     <div>
       <form onSubmit={handleSubmit(onSubmit)}>
-        <Andrew hi={register} />
+        <Andrew hi={register} name="suh" />
       </form>
     </div>
   );
