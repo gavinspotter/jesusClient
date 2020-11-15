@@ -11,7 +11,7 @@ import {
 } from "react-router-dom";
 
 function App() {
-  return;
+  return <Bartholamew />;
 }
 
 export default App;
