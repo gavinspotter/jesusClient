@@ -1,6 +1,7 @@
 import React from "react";
 import Andrew from "../10-9-20/Andrew";
 import { useForm } from "react-hook-form";
+import Judas from "./Judas";
 
 const Bartholamew = () => {
   const { register, handleSubmit } = useForm();
