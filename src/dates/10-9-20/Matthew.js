@@ -11,6 +11,14 @@ const Matthew = (props) => {
         rows={props.rows || 3}
       ></textarea>
     );
+
+  return (
+    <div>
+      <label>{props.label}</label>
+      <br />
+      {element}
+    </div>
+  );
 };
 
 export default Matthew;
